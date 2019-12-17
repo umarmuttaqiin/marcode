@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Umar Blog</title>
+        <link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
+    </head>
+    <body>
+        <!-- About Me section start -->
+        <div class="section">
+            <h1><span>About Umar</span></h1>
+            <hr/>
+            <p align="justify">
+               Hey! I'm <strong>Umar</strong>. I'am a Physics graduate but i can make a code. Coding has change my world. It's not just about apps. Learning to code gave me <i>problem-solving skills</i> and a way to communicate with others on a technical level. I can also develop websites and use my coding skills to get a better job. And I learned it all <strong>self-taught</strong>. You'll have fun, get help, and learn along the way!
+            </p>
+            <p class="quote">"<b>Think Different</b>"</p>
+        </div>
+        <!-- About Me section end -->
+    </body>
+</html>
